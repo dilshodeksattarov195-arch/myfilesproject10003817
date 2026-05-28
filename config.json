@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteync",
+        "uuid": 22119515,
+        "checksum": "o8tfef"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
